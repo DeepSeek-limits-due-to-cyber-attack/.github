@@ -8,7 +8,7 @@ Chinese AI startup **DeepSeek** has temporarily restricted new user registration
 
 ### [**Check DeepSeek's Status Live**](https://cynexium.blogspot.com/2025/01/deepseek-limits-registrations-amid.html)
 ---
-
+![DeepSeek AI Illustration](https://i0.wp.com/technode.com/wp-content/uploads/2025/01/chinas-deekseek-aims-to-rival-openais-reasoning-model-showcase_image-6-a-26883.jpg?fit=860%2C520&ssl=1)
 ## Outages Coincide with Soaring Popularity  
 
 The cyber attack comes as DeepSeek's AI assistant continues to gain immense popularity. On Monday, the app became the **top-rated free application on Apple’s App Store in the United States**, driving significant attention to the platform.  
